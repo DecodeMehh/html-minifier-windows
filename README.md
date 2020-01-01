@@ -4,7 +4,7 @@
 
 ### Global Install
 
-Has it is based on [HTMLMinifier](https://kangax.github.io/html-minifier/) you could simply install globally [HTMLMinifier](https://kangax.github.io/html-minifier/) using the following command
+Has it is based on [HTMLMinifier](https://github.com/kangax/html-minifier) you could simply install globally [HTMLMinifier](https://github.com/kangax/html-minifier) using the following command
 
 ```shell
 npm i html-minifier -g
