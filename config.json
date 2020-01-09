@@ -1,7 +1,7 @@
 {
   "caseSensitive": false,
   "collapseBooleanAttributes": true,
-  "collapseInlineTagWhitespace": true,
+  "collapseInlineTagWhitespace": false,
   "collapseWhitespace": true,
   "conservativeCollapse": false,
   "decodeEntities": false,
